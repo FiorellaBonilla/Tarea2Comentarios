@@ -31,7 +31,7 @@ export default {
     try {
       const artist = await $content('artista', params.slug).fetch()
       
-      // Cargar las pinturas del artista
+   
       const paintings = await $content('pinturas')
         .where({ slug: { $in: artist.paintings } })
         .fetch()

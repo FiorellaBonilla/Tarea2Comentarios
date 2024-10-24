@@ -17,8 +17,8 @@
 export default {
   async asyncData({ $content }) {
     try {
-      // Cargar datos del archivo artists.json
-      const artists = await $content('artista').fetch() // Asegúrate de que el nombre aquí coincida con el archivo real
+
+      const artists = await $content('artista').fetch() 
       return {
         artists
       }
