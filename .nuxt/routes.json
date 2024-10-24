@@ -2,43 +2,50 @@
   {
     "name": "artistas",
     "path": "/artistas",
-    "component": "C:\\\\Users\\\\aaron\\\\OneDrive\\\\Documentos\\\\Lic\\\\Segundo semestre\\\\Arquitectura\\\\tarea2\\\\Tarea2Arquitectura\\\\pages\\\\artistas.vue",
-    "chunkName": "pages/artistas"
+    "component": "C:\\\\Users\\\\FIO\\\\Desktop\\\\LIC-II CICLO 2024\\\\Arquitectura\\\\Tarea2Comentarios\\\\pages\\\\artistas.vue",
+    "chunkName": "pages/artistas",
+    "_name": "_352b5a60"
   },
   {
     "name": "museo",
     "path": "/museo",
-    "component": "C:\\\\Users\\\\aaron\\\\OneDrive\\\\Documentos\\\\Lic\\\\Segundo semestre\\\\Arquitectura\\\\tarea2\\\\Tarea2Arquitectura\\\\pages\\\\museo.vue",
-    "chunkName": "pages/museo"
+    "component": "C:\\\\Users\\\\FIO\\\\Desktop\\\\LIC-II CICLO 2024\\\\Arquitectura\\\\Tarea2Comentarios\\\\pages\\\\museo.vue",
+    "chunkName": "pages/museo",
+    "_name": "_a50b71a4"
   },
   {
     "name": "pinturas",
     "path": "/pinturas",
-    "component": "C:\\\\Users\\\\aaron\\\\OneDrive\\\\Documentos\\\\Lic\\\\Segundo semestre\\\\Arquitectura\\\\tarea2\\\\Tarea2Arquitectura\\\\pages\\\\pinturas.vue",
-    "chunkName": "pages/pinturas"
+    "component": "C:\\\\Users\\\\FIO\\\\Desktop\\\\LIC-II CICLO 2024\\\\Arquitectura\\\\Tarea2Comentarios\\\\pages\\\\pinturas.vue",
+    "chunkName": "pages/pinturas",
+    "_name": "_27f6bc25"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "C:\\\\Users\\\\aaron\\\\OneDrive\\\\Documentos\\\\Lic\\\\Segundo semestre\\\\Arquitectura\\\\tarea2\\\\Tarea2Arquitectura\\\\pages\\\\index.vue",
-    "chunkName": "pages/index"
+    "component": "C:\\\\Users\\\\FIO\\\\Desktop\\\\LIC-II CICLO 2024\\\\Arquitectura\\\\Tarea2Comentarios\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_6c41abcb"
   },
   {
     "name": "artista-slug",
     "path": "/artista/:slug?",
-    "component": "C:\\\\Users\\\\aaron\\\\OneDrive\\\\Documentos\\\\Lic\\\\Segundo semestre\\\\Arquitectura\\\\tarea2\\\\Tarea2Arquitectura\\\\pages\\\\artista\\\\_slug.vue",
-    "chunkName": "pages/artista/_slug"
+    "component": "C:\\\\Users\\\\FIO\\\\Desktop\\\\LIC-II CICLO 2024\\\\Arquitectura\\\\Tarea2Comentarios\\\\pages\\\\artista\\\\_slug.vue",
+    "chunkName": "pages/artista/_slug",
+    "_name": "_0a67af27"
   },
   {
     "name": "museos-slug",
     "path": "/museos/:slug?",
-    "component": "C:\\\\Users\\\\aaron\\\\OneDrive\\\\Documentos\\\\Lic\\\\Segundo semestre\\\\Arquitectura\\\\tarea2\\\\Tarea2Arquitectura\\\\pages\\\\museos\\\\_slug.vue",
-    "chunkName": "pages/museos/_slug"
+    "component": "C:\\\\Users\\\\FIO\\\\Desktop\\\\LIC-II CICLO 2024\\\\Arquitectura\\\\Tarea2Comentarios\\\\pages\\\\museos\\\\_slug.vue",
+    "chunkName": "pages/museos/_slug",
+    "_name": "_cbbd6436"
   },
   {
     "name": "pintura-slug",
     "path": "/pintura/:slug?",
-    "component": "C:\\\\Users\\\\aaron\\\\OneDrive\\\\Documentos\\\\Lic\\\\Segundo semestre\\\\Arquitectura\\\\tarea2\\\\Tarea2Arquitectura\\\\pages\\\\pintura\\\\_slug.vue",
-    "chunkName": "pages/pintura/_slug"
+    "component": "C:\\\\Users\\\\FIO\\\\Desktop\\\\LIC-II CICLO 2024\\\\Arquitectura\\\\Tarea2Comentarios\\\\pages\\\\pintura\\\\_slug.vue",
+    "chunkName": "pages/pintura/_slug",
+    "_name": "_32b304bc"
   }
 ]

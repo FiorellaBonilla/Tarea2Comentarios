@@ -4,13 +4,13 @@ import { normalizeURL, decode } from 'ufo'
 import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
-const _c0c77436 = () => interopDefault(import('..\\pages\\artistas.vue' /* webpackChunkName: "pages/artistas" */))
-const _5caa3439 = () => interopDefault(import('..\\pages\\museo.vue' /* webpackChunkName: "pages/museo" */))
-const _3baea18c = () => interopDefault(import('..\\pages\\pinturas.vue' /* webpackChunkName: "pages/pinturas" */))
-const _1b7198d6 = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
-const _7cfa3e7c = () => interopDefault(import('..\\pages\\artista\\_slug.vue' /* webpackChunkName: "pages/artista/_slug" */))
-const _6404fff0 = () => interopDefault(import('..\\pages\\museos\\_slug.vue' /* webpackChunkName: "pages/museos/_slug" */))
-const _b574d7de = () => interopDefault(import('..\\pages\\pintura\\_slug.vue' /* webpackChunkName: "pages/pintura/_slug" */))
+const _352b5a60 = () => interopDefault(import('..\\pages\\artistas.vue' /* webpackChunkName: "pages/artistas" */))
+const _a50b71a4 = () => interopDefault(import('..\\pages\\museo.vue' /* webpackChunkName: "pages/museo" */))
+const _27f6bc25 = () => interopDefault(import('..\\pages\\pinturas.vue' /* webpackChunkName: "pages/pinturas" */))
+const _6c41abcb = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
+const _0a67af27 = () => interopDefault(import('..\\pages\\artista\\_slug.vue' /* webpackChunkName: "pages/artista/_slug" */))
+const _cbbd6436 = () => interopDefault(import('..\\pages\\museos\\_slug.vue' /* webpackChunkName: "pages/museos/_slug" */))
+const _32b304bc = () => interopDefault(import('..\\pages\\pintura\\_slug.vue' /* webpackChunkName: "pages/pintura/_slug" */))
 
 const emptyFn = () => {}
 
@@ -25,31 +25,31 @@ export const routerOptions = {
 
   routes: [{
     path: "/artistas",
-    component: _c0c77436,
+    component: _352b5a60,
     name: "artistas"
   }, {
     path: "/museo",
-    component: _5caa3439,
+    component: _a50b71a4,
     name: "museo"
   }, {
     path: "/pinturas",
-    component: _3baea18c,
+    component: _27f6bc25,
     name: "pinturas"
   }, {
     path: "/",
-    component: _1b7198d6,
+    component: _6c41abcb,
     name: "index"
   }, {
     path: "/artista/:slug?",
-    component: _7cfa3e7c,
+    component: _0a67af27,
     name: "artista-slug"
   }, {
     path: "/museos/:slug?",
-    component: _6404fff0,
+    component: _cbbd6436,
     name: "museos-slug"
   }, {
     path: "/pintura/:slug?",
-    component: _b574d7de,
+    component: _32b304bc,
     name: "pintura-slug"
   }],
 
