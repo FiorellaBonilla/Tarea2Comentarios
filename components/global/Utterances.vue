@@ -1,19 +1,24 @@
 <template>
-    <div ref="utterancesContainer"></div>
-  </template>
-  
-  <script>
-  export default {
-    mounted() {
-      const script = document.createElement('script');
-      script.src = 'https://utteranc.es/client.js';
-      script.setAttribute('repo', 'FiorellaBonilla/Tarea2Comentarios');  
-      script.setAttribute('issue-term', 'pathname');  
-      script.setAttribute('theme', 'github-light');  
-      script.setAttribute('crossorigin', 'anonymous');
-      script.setAttribute('async', true);
-  
-      this.$refs.utterancesContainer.appendChild(script);
-    }
-  }
-  </script>
+</template>
+<script>
+
+export default {
+  layout: "default",
+
+  head: {
+    script: [
+      {
+        src: 'https://utteranc.es/client.js',
+        repo: "FiorellaBonilla/Tarea2Comentarios",
+        'issue-term': "pathname",
+        label: "comments",
+        theme: "icy-dark",
+        crossorigin: "anonymous",
+        body: true,
+        async: true
+      }
+    ]
+  },
+
+};
+</script>
